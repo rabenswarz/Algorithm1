@@ -3,5 +3,3 @@ public class Main {
         String str_1 = "AaBbCcDd";
         StringBuilder uppercaseStr = new StringBuilder();
         StringBuilder lowercaseStr = new StringBuilder();
-    }
-}
